@@ -1,0 +1,17 @@
+{
+    "name": "tira/libhallo",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "2211082004",
+            "email": "athirarahmadini14@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload ": {
+        "psr-4": {"tira\\libhallo\\" :"src/"}
+    },
+    "require": {}
+}
